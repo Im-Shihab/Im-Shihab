@@ -1,4 +1,4 @@
-![Banner](https://github.com/I-Hoq/I-Hoq/blob/2ae2be373e8a21e4be73e9aabcb6c837d669b27d/Banner.gif)
+![Banner](https://github.com/Im-Shihab/Im-Shihab/blob/2ae2be373e8a21e4be73e9aabcb6c837d669b27d/Banner.gif)
 
 <h1 align="center">
   Hellooo there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shihab
@@ -88,5 +88,5 @@ I enjoy exploring podcasts and discovering new ideas, and I love analyzing crick
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Im-Shihab&show_icons=true&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=ffffff"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-Hoq&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Shihab&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
 </p>

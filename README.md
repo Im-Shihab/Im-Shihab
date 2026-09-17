@@ -54,7 +54,7 @@ My goal is to become a Software Engineer and eventually build impactful startups
 ## 📂 Projects
 
 - 🏥 **Care Park Hospital** → Healthcare-focused system  
-- 📚 **CS Learn** → Learning platform  
+- 📚 **CS Learn** → Learning platform : https://r2cs.pages.dev/ 
 - ⚙️ **CS Task Pro** → Productivity tool  
 
 ---

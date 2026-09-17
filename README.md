@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Aspiring Software Engineer | CSE @ UIU | Exploring AI/LLMs | Startup Enthusiast
+  Aspiring Software Engineer | CSE@UIU | Exploring AI/LLMs | Startup Enthusiast
 </p>
 
 <p align="center">
@@ -87,6 +87,6 @@ I enjoy exploring podcasts and discovering new ideas, and I love analyzing crick
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-Hoq&show_icons=true&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=ffffff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Im-Shihab&show_icons=true&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=ffffff"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-Hoq&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
 </p>
